@@ -1,4 +1,4 @@
-PRODIGY_+AD_04
+PRODIGY_AD_04
 
 ## Tic Tac Toe
 ## Overview
